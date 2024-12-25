@@ -1,0 +1,25 @@
+{
+    "0000000000000000000": [
+        "[2024-12-19 14:30:24] [system-0000000000000000000] (\u2699\ufe0f|SYSTEM): Updated existing ticket message in channel 1310312589972209714."
+    ],
+    "1310300965466800209": [
+        "[2024-12-19 17:42:14] [meow49471-1310243540823052290] (DM with meow49471): /about ",
+        "[2024-12-19 17:42:21] [meow49471-1310243540823052290] (DM with meow49471): /dm_me ",
+        "[2024-12-19 17:43:03] [meow49471-1310243540823052290] (DM with meow49471): /reset ",
+        "[2024-12-19 17:43:07] [meow49471-1310243540823052290] (DM with meow49471): /dm_me "
+    ],
+    "1310300965466800209": [
+        "[2024-12-19 17:42:14] [skittle-chan-1210290698675560499] (DM with skittle-chan): ",
+        "[2024-12-19 17:42:22] [skittle-chan-1210290698675560499] (DM with skittle-chan): ",
+        "[2024-12-19 17:42:30] [skittle-chan-1210290698675560499] (DM with skittle-chan): Hi there, None! \u2727(\u2267\u25bd\u2266)\u2727",
+        "[2024-12-19 17:43:04] [skittle-chan-1210290698675560499] (DM with skittle-chan): ",
+        "[2024-12-19 17:43:08] [skittle-chan-1210290698675560499] (DM with skittle-chan): ",
+        "[2024-12-19 17:43:12] [skittle-chan-1210290698675560499] (DM with skittle-chan): Hi there, None! \u2727(\u2267\u25bd\u2266)\u2727"
+    ],
+    "1298283256516706365": [
+        "[2024-12-19 20:53:30] [meow49471-1310243540823052290] (\ud83c\udf38\u2502skittle-chan-tests): /invite "
+    ],
+    "1298283256516706365": [
+        "[2024-12-19 20:53:31] [skittle-chan-1210290698675560499] (\ud83c\udf38\u2502skittle-chan-tests): Add me to your server: [Add me!](https://discord.com/oauth2/authorize?client_id=1210290698675560499&scope=bot+applications.commands&permissions=1829587348619263)"
+    ]
+}
