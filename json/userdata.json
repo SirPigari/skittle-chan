@@ -1,0 +1,9 @@
+{
+    "testuser": {
+        "email": "example@example.com",
+        "username": "testuser",
+        "userid": 0,
+        "date_logged": "2025-01-01 00:00:00",
+        "perm_lvl": "-1 (test)"
+    }
+}
