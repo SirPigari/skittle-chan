@@ -56,6 +56,22 @@ To install all the necessary Python libraries, follow these steps:
 
 This will automatically install all required libraries listed in the `requirements.txt` file.
 
+#### For linux:
+
+Run the following command in your terminal to install all the necessary Python libraries:
+
+To install all the necessary Python libraries, follow these steps:
+
+1.  Ensure you have a `req_linux.txt` file.
+
+3.  Run the following command in your terminal:
+
+    ```BASH
+    pip install -r req_linux.txt
+    ```
+
+This will automatically install all required libraries listed in the `req_linux.txt` file.
+
 * * *
 
 📋 Setup
@@ -106,6 +122,7 @@ ADMIN_ROLE_ID: int = YOUR_ADMIN_ROLE_ID
 MOD_ROLE_ID: int = YOUR_MOD_ROLE_ID
 TICKET_CHANNEL_ID: int = YOUR_TICKET_CHANNEL_ID
 TICKET_MESSAGE_ID: int = YOUR_TICKET_MESSAGE_ID
+FLASK_SECRET_KEY = YOUR_FLASK_KEY
 ```
 
 **Note 1:** Replace all placeholders (e.g., `YOUR_DISCORD_BOT_TOKEN`) with the appropriate values.
@@ -141,7 +158,7 @@ TICKET_MESSAGE_ID: int = YOUR_TICKET_MESSAGE_ID
 📚 Documentation
 ----------------
 
-Documentation link: _Coming Soon!_
+Documentation link: _Coming Soon!_ (its not)
 
 * * *
 
